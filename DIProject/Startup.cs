@@ -70,3 +70,10 @@ namespace DIProject
         }
     }
 }
+// ako nahradit defaultny uplne ten vlastny a ako zaviest paralerne sucasne 
+// .net core a fw pouzivame .net DI
+// a na vsetko ostatne simpleInjector
+// nesnazit sa reregistraciu -> ale zaregistrovat ho paralerne doplnim container do toho existujuceho 
+// kebyze potrebujem nieco vo svojom DI tak potrebujem spravit njake proxy aby factory vratit z druheho containera 
+// simple injector vlastny blog -> rozdiely inak ako .net core DI
+// configuration managment - options pattern - vracia v konkretnych typoch 
