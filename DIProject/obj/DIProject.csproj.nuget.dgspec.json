@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DiContainerExample\\DIProject\\DIProject\\DIProject.csproj": {}
+    "C:\\DiContainerExample\\DIProject\\DIProject.csproj": {}
   },
   "projects": {
-    "C:\\DiContainerExample\\DIProject\\DIProject\\DIProject.csproj": {
+    "C:\\DiContainerExample\\DIProject\\DIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DiContainerExample\\DIProject\\DIProject\\DIProject.csproj",
+        "projectUniqueName": "C:\\DiContainerExample\\DIProject\\DIProject.csproj",
         "projectName": "DIProject",
-        "projectPath": "C:\\DiContainerExample\\DIProject\\DIProject\\DIProject.csproj",
+        "projectPath": "C:\\DiContainerExample\\DIProject\\DIProject.csproj",
         "packagesPath": "C:\\Users\\vargara\\.nuget\\packages\\",
-        "outputPath": "C:\\DiContainerExample\\DIProject\\DIProject\\obj\\",
+        "outputPath": "C:\\DiContainerExample\\DIProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
